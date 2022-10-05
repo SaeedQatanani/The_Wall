@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    font-family: sans-serif;
+}
+
+#header_bar {
+    margin: 1%;
+    padding: 1%;
+    color: antiquewhite;
+}
+
+main {
+    margin: 1%;
+    padding: 1%;
+}
+
+#message, #comment {
+    padding: 1%;
+    border: 2px double #999;
+}
+
+.btn-primary {
+    margin-left: 40%;
+}
+
+.btn-outline-primary {
+    margin-left: 5%;
+}
+
+.btn-danger{
+    margin-left: 60%;
+}
+
+#messages {
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+#posted_message, #posted_comment {
+    margin: 5%;
+    padding: 1%;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #999;
+}
+
+.message {
+    font-size: 150%;
+}
+
+.comment {
+    font-size: 120%;
+}
+
+#comments {
+    width: 85%;
+    margin: 1%;
+    padding: 1%;
+    margin-left: 7.5%;
+}
